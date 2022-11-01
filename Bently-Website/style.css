@@ -1,0 +1,74 @@
+
+body {
+    margin: 0;
+    padding-top: 70px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    height: 4.5rem;
+    position: relative;
+}
+.nav-item a{
+    color: white;
+    font-weight: 700;
+    font-size: .7rem;
+}
+
+.col-md-4{
+    height: 240px;
+}
+.card-item{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+    font-size: .8rem;
+}
+.card-subhead{
+    color: #444;
+    font-size: 15px;
+}
+.card-head{
+    margin-top: 20px;
+}
+.color-red{
+    background-color: black;
+    
+}
+.footer-head{
+    font-size: 16px;
+}
+.footer-links{
+    text-decoration: none;
+    color: #444;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 2rem;
+}
+.footer-end{
+    color: #444;
+    font-weight: 450;
+    font-size: 12px;
+}
+.footer-bold{
+    color: black;
+}
+
+.slie-img{
+    width: 100px;
+    width: 100px;
+}
+.section-1-dis{
+    font-size: .9rem;
+}
+.links{
+    text-decoration: none;
+    color: black;
+}
+
+.underline:hover{
+    text-decoration: underline;
+    color: rgb(73, 73, 73);
+}
